@@ -1,0 +1,96 @@
+[23-Jan-2023 21:21:25 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admincss'@'localhost' (using password: YES) in /home/admincss/public_html/include/config.php on line 12
+[23-Jan-2023 21:21:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/admincss/public_html/include/config.php:13
+Stack trace:
+#0 /home/admincss/public_html/include/head.php(5): require()
+#1 /home/admincss/public_html/index.php(1): require_once('/home/admincss/...')
+#2 {main}
+  thrown in /home/admincss/public_html/include/config.php on line 13
+[23-Jan-2023 21:21:28 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admincss'@'localhost' (using password: YES) in /home/admincss/public_html/include/config.php on line 12
+[23-Jan-2023 21:21:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/admincss/public_html/include/config.php:13
+Stack trace:
+#0 /home/admincss/public_html/include/head.php(5): require()
+#1 /home/admincss/public_html/index.php(1): require_once('/home/admincss/...')
+#2 {main}
+  thrown in /home/admincss/public_html/include/config.php on line 13
+[23-Jan-2023 21:21:36 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admincss'@'localhost' (using password: YES) in /home/admincss/public_html/include/config.php on line 12
+[23-Jan-2023 21:21:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/admincss/public_html/include/config.php:13
+Stack trace:
+#0 /home/admincss/public_html/include/head.php(5): require()
+#1 /home/admincss/public_html/index.php(1): require_once('/home/admincss/...')
+#2 {main}
+  thrown in /home/admincss/public_html/include/config.php on line 13
+[23-Jan-2023 21:21:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'admincss'@'localhost' (using password: YES) in /home/admincss/public_html/include/config.php on line 12
+[23-Jan-2023 21:21:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/admincss/public_html/include/config.php:13
+Stack trace:
+#0 /home/admincss/public_html/include/head.php(5): require()
+#1 /home/admincss/public_html/index.php(1): require_once('/home/admincss/...')
+#2 {main}
+  thrown in /home/admincss/public_html/include/config.php on line 13
+[23-Jan-2023 21:22:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:22:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:22:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:23:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:23:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:24:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:24:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:26:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:27:04 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:27:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:28:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:28:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:28:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:28:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:28:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:28:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:30:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:30:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:30:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:30:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:30:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:30:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:31:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:31:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:31:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:32:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:32:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:32:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: gmail in /home/admincss/public_html/include/foot.php on line 23
+[23-Jan-2023 21:34:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:35:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:35:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:42:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:45:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:45:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:47:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[23-Jan-2023 21:47:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: banner in /home/admincss/public_html/index.php on line 47
+[07-Feb-2023 13:40:17 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/admincss/public_html/include/config.php on line 12
+[07-Feb-2023 13:40:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/admincss/public_html/include/config.php:13
+Stack trace:
+#0 /home/admincss/public_html/include/head.php(5): require()
+#1 /home/admincss/public_html/index.php(1): require_once('/home/admincss/...')
+#2 {main}
+  thrown in /home/admincss/public_html/include/config.php on line 13
+[02-May-2023 11:44:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'tcksscamsinfo_cc'@'localhost' (using password: YES) in /home/tadminkdvcom/public_html/include/config.php on line 12
+[02-May-2023 11:44:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/tadminkdvcom/public_html/include/config.php:13
+Stack trace:
+#0 /home/tadminkdvcom/public_html/include/head.php(5): require()
+#1 /home/tadminkdvcom/public_html/index.php(1): require_once('/home/tadminkdv...')
+#2 {main}
+  thrown in /home/tadminkdvcom/public_html/include/config.php on line 13
+[02-May-2023 18:45:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/tadminkdvcom/public_html/include/config.php:17
+Stack trace:
+#0 /home/tadminkdvcom/public_html/include/head.php(5): require()
+#1 /home/tadminkdvcom/public_html/index.php(1): require_once('/home/tadminkdv...')
+#2 {main}
+  thrown in /home/tadminkdvcom/public_html/include/config.php on line 17
+[02-May-2023 18:45:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/tadminkdvcom/public_html/include/config.php:17
+Stack trace:
+#0 /home/tadminkdvcom/public_html/include/head.php(5): require()
+#1 /home/tadminkdvcom/public_html/index.php(1): require_once('/home/tadminkdv...')
+#2 {main}
+  thrown in /home/tadminkdvcom/public_html/include/config.php on line 17
+[02-May-2023 18:45:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/tadminkdvcom/public_html/include/config.php:17
+Stack trace:
+#0 /home/tadminkdvcom/public_html/include/head.php(5): require()
+#1 /home/tadminkdvcom/public_html/index.php(1): require_once('/home/tadminkdv...')
+#2 {main}
+  thrown in /home/tadminkdvcom/public_html/include/config.php on line 17
